@@ -14,7 +14,7 @@ print("The Sum of ")
 
 
 #Concatenating string using the '+' operator
-firstname = "Riya"
+firstname = "Shejal"
 lastname = "Singh"
 print("My name is-" +firstname+""+lastname + "!")
 #f-string for formatting output
@@ -23,4 +23,5 @@ print(f"I am {20} year old")
 #Changing the end of the print (no new line)
 print("NSTI,", end="")
 print("Allhabad")
+
 
