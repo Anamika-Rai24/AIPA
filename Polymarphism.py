@@ -7,8 +7,9 @@ class Doctor:
 class Teacher:
     def work(self):
         print("Teach Students")
-xyz = [Police(),Doctor(),Teacher()]
-for i in xyz:
+pqr = [Police(),Doctor(),Teacher()]
+for i in pqr:
     i.work() 
     
+
                           
